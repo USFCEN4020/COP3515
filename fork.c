@@ -4,6 +4,8 @@
  * Note: if needed, run from shell
  */
 
+// This is a new commment in the code
+
 #include <stdio.h>
 #include <unistd.h>
 
